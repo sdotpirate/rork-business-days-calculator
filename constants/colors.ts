@@ -1,0 +1,16 @@
+export default {
+  primary: '#0D7C66',
+  primaryLight: '#E8F5F1',
+  primaryDark: '#095C4B',
+  background: '#F8F7F4',
+  surface: '#FFFFFF',
+  surfaceAlt: '#F1F0ED',
+  text: '#1A1A1A',
+  textSecondary: '#6B6B6B',
+  textTertiary: '#9E9E9E',
+  border: '#E8E7E4',
+  danger: '#D94F4F',
+  holiday: '#E8913A',
+  holidayLight: '#FFF3E6',
+  weekend: '#B0B0B0',
+};
